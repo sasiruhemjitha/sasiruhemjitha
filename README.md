@@ -75,3 +75,6 @@
 ☐ Build Real-World Projects
 ☐ Improve Cybersecurity Skills
 ☐ Build a Strong IT Career
+
+
+<h3 align="center"> ⭐ Thanks for visiting my profile! ⭐ </h3> <p align="center"> <img src="https://capsule-render.vercel.app/api?type=waving&color=36BCF7&height=100&section=footer"/> </p> ```
